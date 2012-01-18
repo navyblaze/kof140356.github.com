@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/excalibur_blog/"
+http_images_path = "/excalibur_blog/images"
+http_fonts_path = "/excalibur_blog/fonts"
+css_dir = "public/excalibur_blog/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
