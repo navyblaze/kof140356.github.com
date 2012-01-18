@@ -1,7 +1,7 @@
-source "http://rubygems.org"
+source "http://ruby.taobao.org"
 
 group :development do
-  gem 'rake'
+  gem 'rake', '0.9.2'
   gem 'rack'
   gem 'jekyll'
   gem 'rdiscount'
